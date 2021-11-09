@@ -17,23 +17,22 @@
 
 * Project 1:
   [Portfolio Page Boostrap and Sass](https://iamanh1990.github.io/portfolio-bootstrap-sass/?target=_blank) <br />
-  [Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass){:target="_blank" rel="noopener"}
+  [Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass)
 
 <hr />
 
 * Project 2:
-  [MyHappyFund Website MERN Stack App](https://myhappyfund.herokuapp.com/){:target="_blank" rel="noopener"} <br />
-  [Github repo front-end](https://github.com/iamanh1990/charity-app-mern-frontend){:target="_blank" rel="noopener"} <br />
-  [Github repo back-end](https://github.com/iamanh1990/charity-app-mern-backend){:target="_blank" rel="noopener"}
+  [MyHappyFund Website MERN Stack App](https://myhappyfund.herokuapp.com/) <br />
+  [Github repo front-end](https://github.com/iamanh1990/charity-app-mern-frontend) <br />
+  [Github repo back-end](https://github.com/iamanh1990/charity-app-mern-backend)
 
 
 <hr />
 
 * Project 3:
-  [Ecommerce Website MERN Stack App](){:target="_blank" rel="noopener"} <br />
-  [Github repo front-end](https://github.com/iamanh1990/Ecommerce-frontend){:target="_blank" rel="noopener"} <br />
-  [Github repo back-end](https://github.com/iamanh1990/ecommerce-backend){:target="_blank" rel="noopener"} 
-
+  [Ecommerce Website MERN Stack App]() <br />
+  [Github repo front-end](https://github.com/iamanh1990/Ecommerce-frontend) <br />
+  [Github repo back-end](https://github.com/iamanh1990/ecommerce-backend)
 
 <h3 align="left">Languages and Tools:</h3>
 
