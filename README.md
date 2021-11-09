@@ -16,19 +16,19 @@
 <h3 align="left">Projects:</h3>
 
 ```
-  <li>[Portfolio Page Boostrap and Sass](https://iamanh1990.github.io/portfolio-bootstrap-sass/)</li>
-  <li>[Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass)</li> 
+  [Portfolio Page Boostrap and Sass Deployed at](https://iamanh1990.github.io/portfolio-bootstrap-sass/)
+  [Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass)
 ```
 
 ```
-  <li>[MyHappyFund Website MERN Stack App](https://myhappyfund.herokuapp.com/)</li>
-  <li>[Github repo front-end](https://github.com/iamanh1990/charity-app-mern-frontend)</li>
-  <li>[Github repo back-end](https://github.com/iamanh1990/charity-app-mern-backend)</li>
+  [MyHappyFund Website MERN Stack App Deployed at](https://myhappyfund.herokuapp.com/)
+  [Github repo front-end](https://github.com/iamanh1990/charity-app-mern-frontend)
+  [Github repo back-end](https://github.com/iamanh1990/charity-app-mern-backend)
 ```
 ```
-  <li>[Ecommerce Website MERN Stack App]()</li>
-  <li>[Github repo front-end](https://github.com/iamanh1990/Ecommerce-frontend)</li>
-  <li>[Github repo back-end](https://github.com/iamanh1990/ecommerce-backend)</li>
+  [Ecommerce Website MERN Stack App Deployed at]()</li>
+  [Github repo front-end](https://github.com/iamanh1990/Ecommerce-frontend)
+  [Github repo back-end](https://github.com/iamanh1990/ecommerce-backend)
 ```
 
 <h3 align="left">Languages and Tools:</h3>
