@@ -15,21 +15,25 @@
 
 <h3 align="left">Projects:</h3>
 
-```
+* Project 1:
   [Portfolio Page Boostrap and Sass Deployed at](https://iamanh1990.github.io/portfolio-bootstrap-sass/)
   [Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass)
-```
 
-```
+<hr />
+
+* Project 2:
   [MyHappyFund Website MERN Stack App Deployed at](https://myhappyfund.herokuapp.com/)
   [Github repo front-end](https://github.com/iamanh1990/charity-app-mern-frontend)
   [Github repo back-end](https://github.com/iamanh1990/charity-app-mern-backend)
-```
-```
+
+
+<hr />
+
+* Project 3:
   [Ecommerce Website MERN Stack App Deployed at]()</li>
   [Github repo front-end](https://github.com/iamanh1990/Ecommerce-frontend)
   [Github repo back-end](https://github.com/iamanh1990/ecommerce-backend)
-```
+
 
 <h3 align="left">Languages and Tools:</h3>
 
