@@ -16,7 +16,7 @@
 <h3 align="left">Projects:</h3>
 
 * Project 1:
-  [Portfolio Page Boostrap and Sass](https://iamanh1990.github.io/portfolio-bootstrap-sass/){:target="_blank" rel="noopener"} <br />
+  [Portfolio Page Boostrap and Sass](https://iamanh1990.github.io/portfolio-bootstrap-sass/?target=_blank) <br />
   [Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass){:target="_blank" rel="noopener"}
 
 <hr />
