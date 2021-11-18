@@ -30,7 +30,7 @@
 <hr />
 
 * Project 3:
-  [Ecommerce Website MERN Stack App]() <br />
+  [Ecommerce Website MERN Stack App](https://iamanh1990.github.io/Ecommerce-frontend/) <br />
   [Github repo front-end](https://github.com/iamanh1990/Ecommerce-frontend) <br />
   [Github repo back-end](https://github.com/iamanh1990/ecommerce-backend)
 
