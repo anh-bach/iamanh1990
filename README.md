@@ -33,6 +33,12 @@
   [Ecommerce Website MERN Stack App](https://iamanh1990.github.io/Ecommerce-frontend/) <br />
   [Github repo front-end](https://github.com/iamanh1990/Ecommerce-frontend) <br />
   [Github repo back-end](https://github.com/iamanh1990/ecommerce-backend)
+  
+* Project 4:
+[Memory Cards Game TypeScript](https://iamanh1990.github.io/memory-cards-react-typescript/) <br />
+[Github repo](https://github.com/iamanh1990/memory-cards-react-typescript)
+
+<hr />
 
 <h3 align="left">Languages and Tools:</h3>
 
