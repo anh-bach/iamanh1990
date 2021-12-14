@@ -16,13 +16,13 @@
 <h3 align="left">Projects:</h3>
 
 * Project 1:
-  [Portfolio Page Boostrap and Sass](https://iamanh1990.github.io/portfolio-bootstrap-sass/?target=_blank) <br />
+  [Portfolio Page Boostrap and Sass - live version - please clicke here to check](https://iamanh1990.github.io/portfolio-bootstrap-sass/?target=_blank) <br />
   [Github repo](https://github.com/iamanh1990/portfolio-bootstrap-sass)
 
 <hr />
 
 * Project 2:
-  [MyHappyFund Website MERN Stack App](https://myhappyfund.herokuapp.com/) <br />
+  [MyHappyFund Website MERN Stack App - live version - please clicke here to check](https://myhappyfund.herokuapp.com/) <br />
   [Github repo front-end](https://github.com/iamanh1990/charity-app-mern-frontend) <br />
   [Github repo back-end](https://github.com/iamanh1990/charity-app-mern-backend)
 
@@ -30,14 +30,14 @@
 <hr />
 
 * Project 3:
-  [Ecommerce Website MERN Stack App](https://iamanh1990.github.io/Ecommerce-frontend/) <br />
+  [Ecommerce Website MERN Stack App - live version - please clicke here to check](https://iamanh1990.github.io/Ecommerce-frontend/) <br />
   [Github repo front-end](https://github.com/iamanh1990/Ecommerce-frontend) <br />
   [Github repo back-end](https://github.com/iamanh1990/ecommerce-backend)
   
 <hr />
   
 * Project 4:
-[Memory Cards Game TypeScript](https://iamanh1990.github.io/memory-cards-react-typescript/) <br />
+[Memory Cards Game TypeScript - live version - please clicke here to check](https://iamanh1990.github.io/memory-cards-react-typescript/) <br />
 [Github repo](https://github.com/iamanh1990/memory-cards-react-typescript)
 
 <hr />
